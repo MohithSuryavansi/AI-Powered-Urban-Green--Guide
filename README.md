@@ -14,5 +14,5 @@ A web app built with **Streamlit** that helps users find suitable planting locat
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/urban-green-guide.git
-2. Run the streamlit interface
+2. Run the streamlit interface:
     streamlit run app.py
